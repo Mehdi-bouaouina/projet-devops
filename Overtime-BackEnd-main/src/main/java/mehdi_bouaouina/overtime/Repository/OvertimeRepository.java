@@ -1,7 +1,7 @@
 package mehdi_bouaouina.overtime.Repository;
 
-import ahmed_hammami.overtime.dto.OvertimeResponseDto;
-import ahmed_hammami.overtime.model.entity.Overtime;
+import mehdi_bouaouina.overtime.dto.OvertimeResponseDto;
+import mehdi_bouaouina.overtime.model.entity.Overtime;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

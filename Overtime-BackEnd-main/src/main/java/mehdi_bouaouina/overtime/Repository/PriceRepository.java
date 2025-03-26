@@ -1,6 +1,6 @@
 package mehdi_bouaouina.overtime.Repository;
 
-import ahmed_hammami.overtime.model.entity.Price;
+import mehdi_bouaouina.overtime.model.entity.Price;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
